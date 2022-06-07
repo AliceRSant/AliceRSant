@@ -1,7 +1,7 @@
 ## Sobre mim ##
 Meu nome é Alice Santana. Sou aluno do **Colégio Estadual São Mateus**, em São Mateus do Sul-PR  
 Meu contato profissional é *alice.riesemberg.santana@escola.pr.gov.br*
-Tenho interesse em novas  linguage n s de progra mação, criar e desen volver projeto  s com meu professor da disciplina de **pensamento  computacional** e colegas
+Tenho interesse em novas  linguagens de progra mação, criar e desenvolver projetos com meu professor da disciplina de **pensamento  computacional** e colegas
 Atualmente, estou trabalhando em criar e desenvolver jogos no SCRATCH  e pretendo criar  e  desenvolver uma página html na web
 ![SCRATCH](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
