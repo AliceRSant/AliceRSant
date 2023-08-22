@@ -1,5 +1,5 @@
 ## Sobre mim ##
-- Meu nome é Alice Santana. Sou aluno do **Colégio Estadual São Mateus**, em São Mateus do Sul-PR  
+- Meu nome é Alice Santana (também conhecido como Alle). Sou aluno do **Colégio Estadual São Mateus**, em São Mateus do Sul-PR  
 - Meu contato profissional é *alice.riesemberg.santana@escola.pr.gov.br*
 - Tenho interesse em novas  linguagens de programação, criar e desenvolver projetos com meu professor da disciplina de **pensamento  computacional** e colegas
 - Atualmente, estou trabalhando em criar e desenvolver jogos no SCRATCH  e pretendo criar  e  desenvolver uma página html na web
